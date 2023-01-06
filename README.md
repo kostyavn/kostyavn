@@ -1,6 +1,6 @@
-![logo](https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif)
+<img align="center" height="300" width="1000" src="https://github.com/kostyavn/kostyavn/blob/main/comp_1.gif" alt="space"/>
 
-<h1 align="center">Yo! 👋, I'm Konstantin</h1>
+<h1 align="center">Yo! 👋  I'm Konstantin</h1>
 <h3 align="center">A passionate and experienced frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostyavn&label=Profile%20views&color=0065a3&style=flat" alt="kostyavn" /> </p>
