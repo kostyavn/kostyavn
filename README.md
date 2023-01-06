@@ -1,4 +1,4 @@
-<img align="center" alt="space" height="300" width="1000" src="https://media3.giphy.com/media/sJvz8Qnfly3BOuotGx/giphy.gif?cid=ecf05e47b2pddwn195vlcucl3i0cd8qzcc2bq4tb5wgak9ay&rid=giphy.gif&ct=g" />
+<img align="center" alt="space" height="300" width="1000" src="https://github.com/kostyavn/kostyavn/blob/main/giphy.gif"/>
 
 <h1 align="center">Yo! 👋  I'm Konstantin</h1>
 <h3 align="center">A passionate and experienced frontend developer</h3>
